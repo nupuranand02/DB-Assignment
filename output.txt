@@ -1,0 +1,46 @@
+output:-
+
+Total number of rows in table:  5
+
+Printing each row
+Movie Name =  Inception
+Lead Actor =  Leonard
+Actress  =  Ken
+Director  =   Marion
+Year of Release  =  2010 
+
+Movie Name =  Parasite
+Lead Actor =  Kang
+Actress  =  Sung
+Director  =  Dam
+Year of Release  =  2020 
+
+Movie Name =  Joker
+Lead Actor =  Joaquin
+Actress  =  zazie
+Director  =  Robert
+Year of Release  =  2019 
+
+Movie Name =  Avengers
+Lead Actor =  Robert
+Actress  =  Evans
+Director  =  Ruffalo
+Year of Release  =  2019 
+
+Movie Name =  Spiderman
+Lead Actor =  Liev
+Actress  =  Luna
+Director  =  Glenn
+Year of Release  =  2019 
+
+
+
+
+Total number of rows in table:  1
+
+Printing each row
+Movie Name =  Avengers
+Lead Actor =  Robert
+Actress  =  Evans
+Director  =  Ruffalo
+Year of Release  =  2019 
